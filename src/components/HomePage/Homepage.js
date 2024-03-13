@@ -51,7 +51,7 @@ const Homepage = () => {
           data-aos-duration="1000"
         >
           <Style.HomePage_img
-            src={require("../../images/323975454_2191134737736628_5751669062532143065_n.jpg")}
+            src={require("../../images/img3.png")}
             alt="Img"
           />
         </Style.HomePage_ImageContainer>

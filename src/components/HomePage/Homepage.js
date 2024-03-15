@@ -17,7 +17,7 @@ const Homepage = () => {
   const handleDownloadCV = () => {
     // Implement your download CV logic here
     // use window.open() to download the CV file
-    window.open("/path/to/cv.pdf", "_blank");
+    window.open("https://drive.google.com/file/d/17Kc137rqghQ-Pc6H4EalanOx93kJC0-J/view?usp=sharing", "_blank");
   };
 
   const handleGithubClick = () => {

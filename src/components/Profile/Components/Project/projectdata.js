@@ -35,7 +35,7 @@ const projectdata = [
     image: simpleshell,
     name: "Simple Shell",
     git: "https://github.com/wellingtonmwadali/simple_shell",
-    web: "/",
+    web: "https://github.com/wellingtonmwadali/simple_shell",
     p: "This project is a milestone implementation of the shell, developed as part of the C code curriculum at ALX Africa. Designed to aid students in comprehending advanced shell concepts, `Gates of Shell` delves into processes, system calls, bit manipulation, file management, and error handling. Acting as a simple UNIX command interpreter akin to the simple shell (sh).",
     switchSide: true,
   },

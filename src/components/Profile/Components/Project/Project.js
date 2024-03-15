@@ -64,6 +64,7 @@ const Project = () => {
                                   color: "white",
                                 }}
                                 href={item.web}
+                                target="_blank"
                               >
                                 visit web
                               </a>
@@ -77,6 +78,7 @@ const Project = () => {
                                   color: "white",
                                 }}
                                 href={item.git}
+                                target="_blank"
                               >
                                 visit github
                               </a>
@@ -121,6 +123,7 @@ const Project = () => {
                                   color: "white",
                                 }}
                                 href={item.web}
+                                target="_blank"
                               >
                                 visit web
                               </a>
@@ -134,6 +137,7 @@ const Project = () => {
                                   color: "white",
                                 }}
                                 href={item.git}
+                                target="_blank"
                               >
                                 visit github
                               </a>

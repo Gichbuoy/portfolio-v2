@@ -94,6 +94,20 @@ const Experience = () => {
                         </Style.About_Orgaization_Box_Experience_Text>
                       </>
                     )}
+                    {item.aboutFive && (
+                      <>
+                        <Style.About_Orgaization_Box_Experience_Text>
+                          5: {item.aboutFive}
+                        </Style.About_Orgaization_Box_Experience_Text>
+                      </>
+                    )}
+                    {item.aboutSix && (
+                      <>
+                        <Style.About_Orgaization_Box_Experience_Text>
+                          6: {item.aboutSix}
+                        </Style.About_Orgaization_Box_Experience_Text>
+                      </>
+                    )}
                   </Style.About_Orgaization_Box_Experience_Section>
                 </Style.About_Orgaization_Box_Inner_Box>
               );

@@ -26,9 +26,10 @@ var skillsData = {
   other: [
     "Git",
     "Github",
-    "Heroku",
-    "Render",
-    "Vercel",
+    "Graphic Programming",
+    "Data Structures & Algorithms",
+    "Unix Programming",
+    "Linux/Command line",
     "Willing to learn new technology",
   ],
 

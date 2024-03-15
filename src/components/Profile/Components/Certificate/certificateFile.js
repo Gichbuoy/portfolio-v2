@@ -1,35 +1,28 @@
 
-import javascript from  "../../../../images/javascript.png";
-import html from  "../../../../images/Html.png";
-import css from  "../../../../images/css.png";
+import alx from  "../../../../images/alx-certificate.png";
+import hackathon from  "../../../../images/hackathon.png";
+import sql from  "../../../../images/sql.png";
+import web from  "../../../../images/web.png";
 
 
 
 const certificateFile = [
     {
       id: 2,
-      image: javascript,
+      image: alx,
       p :'Alx Africa',
     name: 'Software Engineering',
 
     },
 
-    {
-        id: 1,
-        image:
-        "",
-        p :'Harvard University',
-        name: 'Harvard University , CS50 Web Programming, JavaScript',
-
-
-    },
+   
 
       {
      id: 1,
           image:
-          css,
+          hackathon,
           p :'Hackathon',
-          name: 'Css Sololearn',
+          name: 'Sturtern Klusterthon',
 
 
         },
@@ -37,7 +30,7 @@ const certificateFile = [
         {
             id: 1,
             image:
-            javascript,
+            sql,
             p :'FreeCodeCamp',
             name: 'FreeCodeCamp , JavaScript Algorithms and Data Structure',
 
@@ -56,7 +49,7 @@ const certificateFile = [
     {
       id: 9,
       image:
-      html,
+      web,
       p :'sololearn',
     name: 'Html Sololearn',
 

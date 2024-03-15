@@ -41,14 +41,14 @@ const About = () => {
                intricate user interfaces and dynamic web applications with elegance and efficiency. 
                <br /> <br />
               As an enthusiastic team player, I have a passion for innovative technology, and delivering exceptional software solutions,
-              ready to contribute to the company success.  Over the course of my 2 years of experience, 
+              ready to contribute to the company success.  Over the course of my 1 and a half years of experience, 
               I've demonstrated my ability to collaborate effectively and translate organizational needs 
               into robust lines of code that support strategic objectives. <br /> <br />
               
               Proficient in backend engineering, I specialize in constructing and maintaing
               server side logic for web applications, as well as creating robust APIs to facilitate
               seamless communication between frontend and backend systems.
-              With a keen understanding of technologies such as Node.js, Express.js, MongoDB, SQL databases,
+              With a keen understanding of technologies such as Node.js, Express.js, Flask, MongoDB, SQL databases,
                and RESTful APIs, I excel at architecting scalable and efficient solutions that meet the unique
                 needs of each project. Leveraging my skills in logic implementation and data processing, 
                 I ensure that web applications are not only functional but also performant and reliable.
@@ -61,7 +61,7 @@ const About = () => {
                   onClick={() => navigate("/experience")}
                 >
                   <Style.About_Box_Paragraph_Span>
-                    2+
+                    1.5+
                   </Style.About_Box_Paragraph_Span>
                   years of experience
                 </Style.About_Box_Paragraph>

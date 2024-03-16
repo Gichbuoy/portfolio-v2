@@ -161,7 +161,7 @@ const spin = keyframes `
 export const  HomePage_ImageContainer  = styled("div")({
 
     width : "12.5rem",
-    height : "28.5rem",
+    height : "13.5rem",
     borderRadius : "12.5rem   5rem   5rem  4rem",
     backgroundColor : "skyblue",
    // animation :  `${spin} 6s ease infinite`,

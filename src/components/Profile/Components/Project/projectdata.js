@@ -27,7 +27,7 @@ const projectdata = [
     name: "Alx Intranet Theme Selector",
     git: "https://github.com/wellingtonmwadali/ALX_MultiTone-Magic",
     web: "https://chromewebstore.google.com/detail/alx-multitone-magic/ephimbbnijochfniplkonmebaknmjojm",
-    p: "During my time at ALX, a software engineering program I attended, I collaborated with a fellow developer to build a chrome extension that allows users to customize theme of Alx Intranet, the learning platform for Alx Africa. Since its launch, the extension gained traction, boasting over 60 users. ",
+    p: "During my time at ALX, a software engineering program I attended, I collaborated with a fellow developer to build a chrome extension that allows users to customize the theme of Alx Intranet, the learning platform for Alx Africa. Since its launch, the extension gained traction, boasting over 75 users. ",
     switchSide: true,
   },
   {
@@ -99,7 +99,7 @@ const projectdata = [
     image: jarvis,
     name: "AI Personal Assistant",
     git: "https://github.com/Gichbuoy/AI_Assistant",
-    web: "/",
+    web: "https://youtu.be/db4wwzwMF-Q",
     p: "This is an AI personal assistant project built using Python. It is designed to assist users with various tasks, making their lives easier and more productive. Inspired by the AI assistant from the Iron Man, (Jarvis)",
     switchSide: true,
   },

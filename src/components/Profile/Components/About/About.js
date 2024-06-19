@@ -61,7 +61,7 @@ const About = () => {
                   onClick={() => navigate("/experience")}
                 >
                   <Style.About_Box_Paragraph_Span>
-                    2
+                    2+
                   </Style.About_Box_Paragraph_Span>
                   years of experience
                 </Style.About_Box_Paragraph>

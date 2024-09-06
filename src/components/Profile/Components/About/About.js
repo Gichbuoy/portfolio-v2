@@ -61,7 +61,7 @@ const About = () => {
                   onClick={() => navigate("/experience")}
                 >
                   <Style.About_Box_Paragraph_Span>
-                    1.5+
+                    2+
                   </Style.About_Box_Paragraph_Span>
                   years of experience
                 </Style.About_Box_Paragraph>
@@ -73,7 +73,7 @@ const About = () => {
                   onClick={() => navigate("/project")}
                 >
                   <Style.About_Box_Paragraph_Span_Certificate>
-                    Private Projects
+                   Projects Completed
                   </Style.About_Box_Paragraph_Span_Certificate>
                 </Style.About_Box_Paragraph>
               </Style.About_Box>
@@ -84,7 +84,7 @@ const About = () => {
                   onClick={() => navigate("/certificate")}
                 >
                   <Style.About_Box_Paragraph_Span_Certificate>
-                    Software Certificates
+                   Certifications
                   </Style.About_Box_Paragraph_Span_Certificate>
                 </Style.About_Box_Paragraph>
               </Style.About_Box>

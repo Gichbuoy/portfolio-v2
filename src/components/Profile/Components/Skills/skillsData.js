@@ -1,20 +1,7 @@
 var skillsData = {
-  FrontEnd: [
-    "Javascript",
-    "Typescript",
-    "React JS",
-    "Redux",
-    "Styled Components",
-    "SCSS",
-    "Material UI",
-    "Tailwind CSS",
-    "Bootstrap",
-
-  ],
-
   Backend: [
-    "Node js",
-    "Express Js",
+    "Node.js",
+    "Express.js",
     "PHP",
     "MySQL",
     "MongoDB",
@@ -23,21 +10,35 @@ var skillsData = {
     "Web Socket",
   ],
 
+  FrontEnd: [
+    "Javascript",
+    "Typescript",
+    "HTML",
+    "CSS",
+    "React.js",
+    "Redux",
+    "Styled Components",
+    "Material UI",
+    "Tailwind CSS",
+    "Bootstrap",
+
+  ],
+
   other: [
     "Git",
     "Github",
-    "Graphic Programming",
     "Data Structures & Algorithms",
     "Unix Programming",
     "Linux/Command line",
-    "Willing to learn new technology",
+    "Shell",
+    "Willingness to learn new technology",
   ],
 
   SoftSkills: [
-    "Excellent Communication Skill",
-    "Attention to details",
+    "Confident Communicator",
+    "Attention to detail",
     "Problem solving skills",
-    "Working continuously on a task until completion",
+    "Innovative thinker",
     "Ability to work well in a team",
     "Logical thinking",
   ],

@@ -8,7 +8,7 @@
       companyLocation : "Remote",
       type : "Full-Time",
       dateStarted : "Feb 2023",
-      dateEnded : "Feb 2024",
+      dateEnded : "Mar 2024",
       aboutOne : "I enrolled in an intensive 12-month Software Engineering program that equipped me with the skills and network to become a back-end engineer.",
       aboutTwo : "Designed and implemented user interfaces using HTML, CSS, and JavaScript frameworks such as React to improve the web functionality and responsiveness. ",
       aboutThree : "Integrated frontend components with backend API's to create a seamless user experience. I also Designed, implemented, and maintained the API's to facilitate communication between different parts of web applications. Architecting the backend systems to handle increased load and traffic using techniques such as load balancing, caching, and horizontal scaling. ",
@@ -38,7 +38,7 @@
 
    {
       companyName : "Freelance",
-      Position : " Frontend Developer",
+      Position : " Web Developer",
       companyLocation : "Remote",
       type : "Contract",
       dateStarted : "Jul 2022",
